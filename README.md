@@ -1,3 +1,3 @@
-# AlgoCasts
+# What is this repo for?
 
-Companion repo to a course on Udemy.com
+This is to practice algorithmic questions in JavaScript
